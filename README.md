@@ -17,9 +17,8 @@ Neste repositório, você encontrará:
 
 ## 🗂️ Estrutura do Repositório
 
-- 🗂️ **Positions:** Protótipo em HTML, aprendizagem e utilização prática da propriedade `position`. CSS com layout simples e objetivo.  
-- 🗂️ **Positions - Primeira Atividade:** Colocando em prática os conhecimentos sobre a propriedade `position`. CSS com layout simples e objetivo.  
-- 🗂️ **Positions Chapéu - Segunda Atividade:** Aplicação dos conceitos de `position` e uso do `z-index`. CSS com layout simples e objetivo.
+- 📁 Revisão de Lógica de Programação: Exercícios focados na revisão de variáveis, operadores e funções básicas vistas durante a disciplina.
+- 📁 Atividade de Revisão de Loop: Exercícios com foco na revisão de estruturas de repetição (for, while, do...while).
 
 ---
 

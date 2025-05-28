@@ -10,8 +10,8 @@ Bem-vindo ao meu repositório de estudos! Aqui compartilho minha jornada de apre
 
 Neste repositório, você encontrará:
 
-🧩 Projetos desenvolvidos durante a disciplina de JavaScript.
-🧠 Exercícios para praticar lógica de programação e muito mais.
+- 🧩 Projetos desenvolvidos durante a disciplina de JavaScript.
+- 🧠 Exercícios para praticar lógica de programação e muito mais.
 
 ---
 
